@@ -1,0 +1,29 @@
+1 - Comando usado para listar as configurações do Git
+	git config --list
+
+2 -  Comando que faz um clone do repositório remoto em seu repositório local.
+	git clone
+
+
+3 - Comando utilizado para apontar um repositório local para um repositório remoto
+	git remote add origin https://github ....
+
+
+4 - Quando você gera commits no seu repositório local com email e nickname diferentes dos utilizados no GitHub,
+	Os commits apareceram com email e nickname diferentes no GitHub.
+
+
+5 - Quando você tenta empurrar (push) o código para o GitHub e o seu commit não representa o estado mais atual do repositório o git irá:
+	Pedir para você fazer um pull e depois um p
+
+
+6 - O Git não resolve todos conflitos de merge automaticamente.
+
+7 - Acontece um conflito, quando duas pessoas editam a mesma linha de código.
+
+8- Após corrigir o conflito em seu repositório local é necessário:
+Criar um novo commit e envia-lo (git push) para o GitHub.
+
+9 - O GitHub lê arquivos Markdown.
+
+10 - O GitHub é, um repositório de código onlin e também é uma rede social.
